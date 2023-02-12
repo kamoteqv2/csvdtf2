@@ -6,7 +6,7 @@ The csvdtf2.exe is a utility app that processes any CSV file with a "timestamp" 
 
 How to use:
 
-1. Download the csvdtformatter.exe file.
+1. Download the csvdtf2.exe file.
 2. Open Command Prompt or Terminal.
 3. Navigate to the directory where the csvdtf2.exe is located.
 4. Type in ```csvdtf2.exe [filename].csv``` and press enter.
