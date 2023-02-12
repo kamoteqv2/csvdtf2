@@ -13,9 +13,5 @@ Type in "csvdtf2.exe [filename].csv" and press enter.
 The app will process the data and export a new file named "processed_[filename].csv" in the same directory.
 Note: The input CSV file should have a column named "timestamp" for the app to work correctly.
 
-Credit: This application is brought to you by Kamote Tech TV.
-=======
-
-
 ***Credit:*** This application was developed by KMQ Tech TV (https://www.youtube.com/@kamoteqv2), a Youtube channel dedicated to teaching and promoting Free DIY technology.
 
