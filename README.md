@@ -8,7 +8,7 @@ How to use:
 
 1. Download the csvdtformatter.exe file.
 2. Open Command Prompt or Terminal.
-3. Navigate to the directory where the csvdtformatter.exe is located.
+3. Navigate to the directory where the csvdtf2.exe is located.
 4. Type in ```csvdtf2.exe [filename].csv``` and press enter.
 
 The app will process the data and export a new file named "processed_[filename].csv" in the same directory.
